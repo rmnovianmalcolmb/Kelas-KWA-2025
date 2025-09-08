@@ -12,3 +12,4 @@ Link Resource: https://juice-shop.herokuapp.com/#/score-board?categories=Injecti
 
 <img width="894" height="837" alt="image" src="https://github.com/user-attachments/assets/3449aef9-5ccc-448f-b290-8a04bb817286" />
 
+<img width="2004" height="83" alt="image" src="https://github.com/user-attachments/assets/da04c3e2-c3cc-45c9-92a7-c390d22ea5b6" />
